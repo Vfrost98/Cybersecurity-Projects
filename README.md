@@ -24,6 +24,11 @@ A quick overview of the stack I generally use:
 * **Red Team:** Nmap, Burp Suite, Metasploit, Kali Linux
 * **Infrastructure:** AWS, Linux, Active Directory
 
+### Practical Training & Profiles
+* **TryHackMe:** [tryhackme.com/p/VeeisMe](https://tryhackme.com/p/VeeisMe) *(Rank 115103)*
+* **LetsDefend:** [letsdefend.io/profile/VeeisMe](https://app.letsdefend.io/user/VeeIsMe)
+* **KC7 Cyber:** [app.hackthebox.com/profile/VeeisMe](https://kc7cyber.com/profile/ae84cc03) *(Rank 5,711)*
+
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/vonesha-frost-227244197/)
 * [Substack](https://substack.com/@veeisme1)
