@@ -26,4 +26,4 @@ A quick overview of the stack I generally use:
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/vonesha-frost-227244197/)
-* [Personal Website / Blog](l[ink](https://substack.com/@veeisme1)
+* [Personal Website / Blog](https://substack.com/@veeisme1)
