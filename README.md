@@ -25,9 +25,9 @@ A quick overview of the stack I generally use:
 * **Infrastructure:** AWS, Linux, Active Directory
 
 ### Practical Training & Profiles
-* **TryHackMe:** [tryhackme.com/p/VeeisMe](https://tryhackme.com/p/VeeisMe) *(Rank 115103)*
+* **TryHackMe:** [tryhackme.com/p/VeeisMe](https://tryhackme.com/p/VeeisMe) *(Rank 115,103)*
 * **LetsDefend:** [letsdefend.io/profile/VeeisMe](https://app.letsdefend.io/user/VeeIsMe)
-* **KC7 Cyber:** [app.hackthebox.com/profile/VeeisMe](https://kc7cyber.com/profile/ae84cc03) *(Rank 5,711)*
+* **KC7 Cyber:** [kc7cyber.com/profile/ae84cc03](https://kc7cyber.com/profile/ae84cc03) *(Rank 5,711)*
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/vonesha-frost-227244197/)
