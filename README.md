@@ -2,8 +2,6 @@
 
 This repository holds my personal scripts, lab work, and security research. I use this space to track the tools I build and the environments I test out. 
 
-If you are just browsing, here are the projects I'm currently most proud of:
-
 ### Repository Structure
 I keep my work separated by domain. You can find documentation and instructions inside each folder:
 
