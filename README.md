@@ -4,11 +4,6 @@ This repository holds my personal scripts, lab work, and security research. I us
 
 If you are just browsing, here are the projects I'm currently most proud of:
 
-### Featured Work
-* **[Project Name 1](link)**: A Python script that automates malware sandbox analysis.
-* **[Project Name 2](link)**: Custom Splunk detection rules I wrote for tracking lateral movement.
-* **[Project Name 3](link)**: A custom packet sniffer built with Scapy.
-
 ### Repository Structure
 I keep my work separated by domain. You can find documentation and instructions inside each folder:
 
